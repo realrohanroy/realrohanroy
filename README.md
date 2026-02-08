@@ -1,102 +1,100 @@
-<h1 align="center">Hey 👋, I'm Rohan Roy</h1>
-<h3 align="center">Backend-focused Fresher | Java • Spring Boot • APIs</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=0A6CF1&size=48&center=true&vCenter=true&width=1000&height=100&lines=Hey+👋+I'm+Rohan+Roy;Backend-Focused+Developer+💻;Building+Real+Systems,+Not+Just+Demos;Always+Open+to+Connect+🤝)](https://github.com/realrohanroy)
+
+<h1 align="center">नमस्ते 👋, I'm Rohan Roy ☕💻</h1>
 
 <p align="center">
-  Curious by nature • Builder by habit • Learning in public
+  Backend-focused fresher who enjoys building things that actually work.<br/>
+  Curious by nature, serious about fundamentals, and always learning.
+</p>
+
+<p align="center">
+  <a href="https://github.com/realrohanroy">
+    <img src="https://komarev.com/ghpvc/?username=realrohanroy&label=Profile%20Visits&color=0A6CF1&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-roy-32623330a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" />
+  </a>
 </p>
 
 ---
 
-### 🙏 Namaste!
-I'm **Rohan**, a fresher who enjoys building backend systems that actually make sense —  
-not just projects that look good in screenshots.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-I’m comfortable working **full stack when required**,  
-but my **intentional focus** is on **backend engineering, APIs, and system fundamentals**.
+### 👨‍💻 About Me
+- 🎓 Final-year **IT fresher**
+- 🧠 Backend-first mindset (depth > hype)
+- 🔁 Comfortable across the stack when required
+- 🤝 Love discussing ideas, systems, startups & tech
+- 📍 Pune, India
 
-I love meeting new people, discussing ideas, and learning how real software is built.
+I believe good software is **understandable, testable, and scalable** — not just flashy.
 
 ---
 
-## 🧠 What I’m currently doing
-- Building **production-style backend projects**
-- Going deep into **Java + Spring Boot**
-- Improving **API design, data modeling & architecture**
-- Preparing for **Backend / SDE Intern / Entry-level roles**
+## 🎯 Current Focus
+- Building **production-style backend services**
+- Deep dive into **Java + Spring Boot**
+- Writing cleaner APIs & better data models
+- Strengthening problem-solving & system thinking
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend (Primary)
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge"/>
-</p>
+### 🔹 Backend (Primary)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-### Backend (Also Comfortable With)
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+### 🔹 Backend (Working Proficiency)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Frontend (Supporting Skill)
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML-CSS-JS-orange?style=for-the-badge"/>
-</p>
+### 🔹 Frontend (Supporting Skill)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-## 📌 Highlighted Projects
-> Pinned repositories reflect my **current learning direction**
+## 📌 Featured Projects
 
-- **Spring Boot Order Service**  
-  Clean architecture backend service with real-world patterns
+| Project | Description | Tech |
+|-------|------------|------|
+| **Spring Boot Order Service** | Clean-architecture backend service | Java, Spring Boot |
+| **AI LeetBuddy** | Chatbot that nudges users during LeetCode | JS |
+| **Gaze Web Navigator** | Eye-tracking based web navigation | Python |
+| **Share My Seat** | Seat-sharing platform | TypeScript |
 
-- **AI LeetBuddy**  
-  A chatbot that nudges you while solving LeetCode problems
-
-- **Gaze Web Navigator**  
-  Webcam-based eye-tracking system for hands-free web navigation
-
-- **Medchain / Ticketing / Share-My-Seat**  
-  Backend-heavy and full-stack academic & personal projects
+> I care more about **how a project is built** than how fancy it looks.
 
 ---
 
-## 🤝 A little more about me
-- I enjoy **connecting with people**
-- I ask questions until things actually make sense
-- I prefer **clarity over hype**
-- Always open to learning, feedback, and collaboration
+## 🤝 Let’s Connect
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 
-If you want to say hi — don’t hesitate 🙂
-
----
-
-## 📍 Location & Links
-- 📍 Pune, India  
-- 🌐 Portfolio: https://rohanroy.netlify.app  
-- 💼 Open to backend internships & entry-level roles
+**I enjoy meeting new people and exchanging ideas.**  
+If you want to talk tech, projects, or opportunities — feel free to say hi 🙂
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realrohanroy&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=realrohanroy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrohanroy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 💬 One line I believe in
-> “Understanding why matters more than just making it work.”
+## 😄 Programming Humor
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=0A6CF1&size=40&center=true&vCenter=true&width=900&height=80&lines=Thanks+For+Visiting+My+Profile!;Let's+Build+Something+Cool+🚀)](https://github.com/realrohanroy)
 
 ---
 
 <p align="center">
-  Thanks for visiting 🙌  
-  Made with ❤️ by Rohan
+  Made with ❤️ by <b>Rohan</b>
 </p>
