@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=0A6CF1&size=48&center=true&vCenter=true&width=1000&height=100&lines=Hey+👋+I'm+Rohan+Roy;Backend-Focused+Developer+💻;Building+Real+Systems,+Not+Just+Demos;Always+Open+to+Connect+🤝)](https://github.com/realrohanroy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=0A6CF1&size=48&center=true&vCenter=true&width=1000&height=100&lines=Hey+👋+I'm+Rohan;Backend-Focused+Developer+💻;Building+Real+Systems,+Not+Just+Demos;Always+Open+to+Connect+🤝)](https://github.com/realrohanroy)
 
 <h1 align="center">नमस्ते 👋, I'm Rohan Roy ☕💻</h1>
 
