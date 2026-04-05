@@ -31,15 +31,18 @@ I believe good software is **understandable, testable, and scalable** — not ju
 
 ---
 
-## 🎯 Current Focus
-- Building **production-style backend services**
-- Deep dive into **Java + Spring Boot**
-- Writing cleaner APIs & better data models
-- Strengthening problem-solving & system thinking
-
+## ⚡ Core Focus
+- Backend systems design & API architecture  
+- AI-powered workflows and automation pipelines  
+- Building scalable, production-ready applications  
 ---
 
 ## 🛠️ Tech Stack
+### 🧠 AI / GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-Tesseract-green?style=for-the-badge)
 
 ### 🔹 Backend (Primary)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,16 +59,14 @@ I believe good software is **understandable, testable, and scalable** — not ju
 
 ---
 
-## 📌 Featured Projects
-
 | Project | Description | Tech |
 |-------|------------|------|
-| **Spring Boot Order Service** | Clean-architecture backend service | Java, Spring Boot |
-| **AI LeetBuddy** | Chatbot that nudges users during LeetCode | JS |
-| **Gaze Web Navigator** | Eye-tracking based web navigation | Python |
-| **Share My Seat** | Seat-sharing platform | TypeScript |
+| **Claim Processing Pipeline** | AI pipeline extracting structured data from PDFs using multi-agent workflows (OCR → classification → extraction) | Python, FastAPI, LangGraph |
+| **Packet Analyzer** | Multithreaded DPI engine processing 800+ packets/sec with flow-consistent hashing | Java |
+| **Spring Boot Order Service** | Production-style backend with clean architecture & concurrency handling | Java, Spring Boot |
+| **Share My Seat** | Full-stack ride-sharing platform with authentication & booking system | TypeScript |
 
-> I care more about **how a project is built** than how fancy it looks.
+> I focus on building systems that handle real-world complexity — not just UI-heavy demos.
 
 ---
 
