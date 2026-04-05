@@ -41,6 +41,7 @@ I believe good software is **understandable, testable, and scalable** — not ju
 ### 🧠 AI / GenAI
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/OCR-Tesseract-green?style=for-the-badge)
 
